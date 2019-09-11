@@ -2,3 +2,6 @@ Kaleb Wohlgemuth, kalebwo
 The last commit was "Initial Commit" where Alex shared his name and how he describes his major, how he organizes, and what he did this summer.
 The commit ID is c331b54
 
+There was no error when knitting the owner file.
+There was a little difficulty in remembering all the steps required to do something
+
