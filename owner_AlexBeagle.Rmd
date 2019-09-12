@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "owner_AlexBeagle"
 author: "Alex Beagle"
@@ -21,3 +22,12 @@ output: html_document
   In order to create a repository in Git, you have to use the following command:
   mkdir "Name of Repository"
   Then you'd have to use "git" init in order to use any further git functions. 
+=======
+# My name is Alex Beagle.
+
+# Economics is fairly easy to uderstand, but it is diffcult to explain.
+
+# The three most important tools/strategies I use to organize are a planner, consistent headings, and dividers.
+
+# I was a pharmacy technician over the summer.
+>>>>>>> 59fd36250d8e8c888fc463dd44c3b47f04c1f1ea
