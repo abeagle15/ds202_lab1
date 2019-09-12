@@ -1,0 +1,23 @@
+---
+title: "owner_AlexBeagle"
+author: "Alex Beagle"
+date: "9/5/2019"
+output: html_document
+---
+
+- Alex Beagle
+- Economics is fairly easy to understand, but it is hard to explain.
+- The three most important tools/strategies I use to organize are a planner, dividers, and constistent headings.
+- I was a pharmacy technician over the past summer.
+
+  Git is a version control system that allows people to track changes they have made in different codes and projects. It is used on a local system, and it does not require an Internet connection.
+
+  GitHub is a hosting service, and it allows you to easily share your code and projects with others. It can only be accessed using an Internet connection.
+
+  Git and GitHub can be used independently, but we don't do this because they were made to work together in unison. They were made, specifically, to be compatible with one another.This the main disadvantage if somebody chose to use them independently. An advantage would be not having to use one with the other. There are several other options, and this may benefit people who are more comfortable using different programs.
+
+  A repository is very similar to a folder. It can hold a variety of different things in it, and it can be used on a local space or an online host.
+
+  In order to create a repository in Git, you have to use the following command:
+  mkdir "Name of Repository"
+  Then you'd have to use "git" init in order to use any further git functions. 
